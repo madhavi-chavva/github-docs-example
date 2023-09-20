@@ -48,10 +48,13 @@ else
   puts "The factorial of #{number} is #{result}."
 end
 ```
+- Make note of where the backtick keyboard key is located.
+- It should appear above the tab key, 
+- but it may vary based on your keyboard layout.
 -  Add an Image. !()[]
--  ![momento](https://github.com/madhavi-chavva/github-docs-example/assets/125069098/76fdae3b-7e4e-4b0b-b002-6d0aa64b466d)
 -  resize the image use html
-  <img width="200px" src=https://github.com/madhavi-chavva/github-docs-example/assets/125069098/76fdae3b-7e4e-4b0b-b002-6d0aa64b466d />
+![backtick](https://github.com/madhavi-chavva/github-docs-example/assets/125069098/9e804bdb-c98f-4e1d-86a5-b888a28916f5)
+
 
 - Good cloud Engineers use codeblocks for both code and error that appear on the console.Error in the console should be always in the bash.
    
@@ -63,11 +66,11 @@ NameError (undefined local variable or method `undefined_variable' for main:Obje
 > Here is an example:
 
 ## Step 3: Use Github flavored Markdown Task Lists
-Markdown extends Markdown to have a list where you check off items <sup>[1]</sup>
+Markdown extends Markdown to have a list where you check off items [<sup>[1]</sup>](#external-references)
 
 - [X] Finish step 1.
 - [ ] Finish step 2.
-- [ ] Finish step 3.
+- [X] Finish step 3.
 
 ## Step 4: Use Emojis (optional)
 GitHub Flavored Markdown (GFM) supports Emojis shortcodes
@@ -88,10 +91,13 @@ You can use the following markdown format to create the tables:
 | --- | --- | --- |
 | cloud with lightning | `:cloud_with_lightning` | 🌩️ |
 ```
-Github extends the functionality of markdown tables to provide more alignment and table cell formating options. <sup>[2]</sup>
-## References
+Github extends the functionality of markdown tables to provide more alignment and table cell formating options. [<sup>[2]</sup>](#external-references)
+![pipechar](https://github.com/madhavi-chavva/github-docs-example/assets/125069098/42522f40-c1f2-47a2-ad13-a55ed43184d8)
+
+
+## External References
 - [GitHub Flavored Markdown Spec](//github.github.com/gfm/)   
 - [Basic writing and formatting syntax(Github Flavored markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
+- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) [<sup>[1]</sup>](#external-references)
 - [GFM Emojis](https://github.com/markdown-templates/markdown-emojis)
 - [GFM Tables(With Extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]</sup>
