@@ -163,6 +163,7 @@ Github extends the functionality of markdown tables to provide more alignment an
 <img width="200px" src="asserts/pipechar.JPG" />
 
 [secret-window hidden garden](secret-window/hidden-garden.md)
+
 ## External References
 
 - [GitHub Flavored Markdown Spec](//github.github.com/gfm/)   
