@@ -53,6 +53,7 @@ end
 - but it may vary based on your keyboard layout.
 -  Add an Image. !()[]
 -  resize the image use html
+
 <img width="200px" src="asserts/backtick.JPG" />
 
 
@@ -164,6 +165,6 @@ Github extends the functionality of markdown tables to provide more alignment an
 
 - [GitHub Flavored Markdown Spec](//github.github.com/gfm/)   
 - [Basic writing and formatting syntax(Github Flavored markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) [<sup>[1]</sup>]
+- [GFM Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
 - [GFM Emojis](https://github.com/markdown-templates/markdown-emojis)
 - [GFM Tables(With Extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]</sup>
