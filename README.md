@@ -159,8 +159,10 @@ Github extends the functionality of markdown tables to provide more alignment an
 - Make note of where the `pipe` keyboard key is located.
 - It should appear above the `enter` key, 
 - but it may vary based on your keyboard layout.
+  
 <img width="200px" src="asserts/pipechar.JPG" />
 
+[secret-window hidden garden](secret-window/hidden-garden.md)
 ## External References
 
 - [GitHub Flavored Markdown Spec](//github.github.com/gfm/)   
