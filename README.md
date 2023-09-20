@@ -53,7 +53,7 @@ end
 - but it may vary based on your keyboard layout.
 -  Add an Image. !()[]
 -  resize the image use html
-![backtick](https://github.com/madhavi-chavva/github-docs-example/assets/125069098/9e804bdb-c98f-4e1d-86a5-b888a28916f5)
+![backtick](asserts/backtick.JPG)
 
 
 - Good cloud Engineers use codeblocks for both code and error that appear on the console.Error in the console should be always in the bash.
@@ -92,7 +92,7 @@ You can use the following markdown format to create the tables:
 | cloud with lightning | `:cloud_with_lightning` | 🌩️ |
 ```
 Github extends the functionality of markdown tables to provide more alignment and table cell formating options. [<sup>[2]</sup>](#external-references)
-![pipechar](https://github.com/madhavi-chavva/github-docs-example/assets/125069098/42522f40-c1f2-47a2-ad13-a55ed43184d8)
+![pipechar](asserts/pipechar.JPG)
 
 
 ## External References
